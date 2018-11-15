@@ -6,8 +6,9 @@ Datalab上で、Keras/TensorFlowを利用して、画像分類をしています
 * 作ったモデルを指定のバケットへ保存
 
 
-(sample)
-
-bucket---nakamoto/
-
-      ---jiro/
+```
+#nakamotoとjiroの2ラベルなら、以下のようなフォルダ構造
+bucket
+      -- nakamoto/
+      -- jiro/
+```
